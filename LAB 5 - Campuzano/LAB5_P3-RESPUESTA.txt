@@ -1,0 +1,19 @@
+***Cuadernillo "LAB5_P1" Primer heuristica:
+
+-El código tardó 0.10064411163330078 segundos en ejecutarse.
+-Maximo de elementos que soporta es de 16.
+
+***Cuadernillo "LAB5_P2_A" Segunda heuristica:
+
+-El código tardó 0.017998933792114258 segundos en ejecutarse.
+-Maximo de elementos que soporta es de 20.
+
+***Cuadernillo "LAB5_P2_B" Tercera heuristica:
+
+-El código tardó 0.03023219108581543 segundos en ejecutarse.
+-Maximo de elementos que soporta es de 17.
+
+
+***RESPUESTA***
+
+LA MEJOR HEURISTICA SERIA LA SEGUNDA PUES ES LA MAS RAPIDA Y LA QUE SOPORTA MAS CANTIDAD DE ELEMENTOS
